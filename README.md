@@ -14,8 +14,8 @@
 ## 环境准备
 
 1. 安装 Python 3.8+,
-   >[!IMPORTANT]
-   >**必须勾选**"Add python.exe to PATH"
+   > [!IMPORTANT]
+   > **必须勾选**"Add python.exe to PATH"
 2. 打开电脑的 CMD 命令行，依次输入以下两条命令并回车，安装所需依赖：
    pip install playwright requests
    playwright install
